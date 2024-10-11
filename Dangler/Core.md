@@ -46,4 +46,6 @@ we can compare Michael Jackson with Heath Ledger (comparing Michael's Tube with 
 
 	D. Search Functionality
 	I) Keyword Search
-	II) (+)Inclusion & (-)Exclusion of tags
+	II) (+)Inclusion & (-)Exclusion of tags.  
+### Preview:  
+![001](../Dangler/Images/001.png)  
